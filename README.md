@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Arezoo Safari
 
-### Artificial Intelligence Engineer | Machine Learning Enthusiast | Computer Engineering Student
+### Artificial Intelligence Enthusiast | Machine Learning Enthusiast | Computer Engineering Student
 
 <p>
 Building intelligent systems with 
