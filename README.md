@@ -40,29 +40,40 @@ Currently, I am focusing on:
 
 # 🔬 Current Research & Development
 
-## 🏥 Multimodal Medical AI Assistant for Dermatology
+## 🏥 Agentic Multimodal Medical AI Assistant for Dermatology
 
-Currently working on a **multimodal AI-powered medical chatbot for skin analysis and recommendation systems**.
+Currently developing an **agentic AI-powered medical assistant for dermatology** that combines **Multimodal AI**, **Retrieval-Augmented Generation (RAG)**, **Multi-Agent Systems**, and **recommendation capabilities** to provide intelligent, context-aware support for skin health.
 
-The system focuses on combining multiple sources of medical information, including:
+The system integrates multiple sources of medical information, including:
 
-* 🖼 Dermatological images
-* 📝 Clinical descriptions and patient information
-* 📚 Medical knowledge bases
+* 🖼️ Dermatological and clinical skin images
+* 📝 Patient symptoms and clinical descriptions
+* 📚 Medical literature and knowledge bases
 * 🔎 Retrieval-Augmented Generation (RAG)
+* 🩺 Structured medical knowledge and clinical guidelines
 
-Key concepts involved:
+### Core AI Technologies
 
-* Multimodal Deep Learning
-* Medical Image Analysis
-* Computer Vision
-* Natural Language Processing
-* Retrieval-Augmented Generation (RAG)
-* Knowledge-Augmented AI Systems
-* Recommendation Systems
-* Intelligent Healthcare Assistants
+* 🤖 Agentic AI
+* 🧠 Multi-Agent Systems
+* 🌐 Multimodal AI (Vision + Language)
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 💬 Large Language Models (LLMs)
+* 👁️ Computer Vision
+* 🩺 Medical Image Analysis
+* 📝 Natural Language Processing (NLP)
+* 🧬 Knowledge-Augmented AI
+* 🎯 AI Recommendation Systems
 
-The goal is to develop an AI system capable of assisting users by retrieving relevant medical knowledge, analyzing multimodal inputs, and providing intelligent recommendations through an interactive conversational interface.
+### Project Goals
+
+The project aims to develop an intelligent medical assistant capable of:
+
+* Understanding both medical images and textual information.
+* Retrieving reliable medical knowledge from external knowledge bases using RAG.
+* Coordinating specialized AI agents to perform tasks such as image analysis, knowledge retrieval, reasoning, and personalized recommendation.
+* Assisting users through an interactive conversational interface with context-aware and evidence-informed responses.
+* Delivering personalized recommendations based on multimodal patient data and retrieved medical knowledge.
 
 ---
 
